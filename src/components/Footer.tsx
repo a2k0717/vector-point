@@ -18,6 +18,9 @@ export default function Footer() {
           </a>
         </div>
       </div>
+      <p className="mx-auto max-w-6xl text-center text-xs text-text-secondary mt-4">
+        Vector Point is a brand of vector.dev LLC.
+      </p>
     </footer>
   );
 }
